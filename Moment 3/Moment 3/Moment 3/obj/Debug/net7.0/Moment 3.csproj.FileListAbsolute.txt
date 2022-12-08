@@ -1,0 +1,15 @@
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/bin/Debug/net7.0/Moment 3
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/bin/Debug/net7.0/Moment 3.deps.json
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/bin/Debug/net7.0/Moment 3.runtimeconfig.json
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/bin/Debug/net7.0/Moment 3.dll
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/bin/Debug/net7.0/Moment 3.pdb
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.csproj.AssemblyReference.cache
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.AssemblyInfoInputs.cache
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.AssemblyInfo.cs
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.csproj.CoreCompileInputs.cache
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.dll
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/refint/Moment 3.dll
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.pdb
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/Moment 3.genruntimeconfig.cache
+/Users/fiepie/Desktop/Webbutveckling/C#/Moment 3/Moment 3/Moment 3/obj/Debug/net7.0/ref/Moment 3.dll
